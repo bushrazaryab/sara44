@@ -1,3 +1,5 @@
 git introduction
 
 AC is not working
+
+Next class will be in extension 3 again
